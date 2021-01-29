@@ -1,0 +1,5 @@
+le controleur
+
+C'est ici que tout le traitement en PHP va être fait.
+
+--> traitement des formulaires

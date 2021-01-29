@@ -1,0 +1,12 @@
+les views
+
+Contient tout les fichiers de vue en HTML
+Tous ce qui est visuel pour l'utilisateur
+
+
+ index.php est le point d'accés à l'application. C'est la porte d'entrée.
+ Il va faire la gestion de tout le contenu du site
+ ex : si c'est a admin viens se connecter, il le saura, idem un internaute lambda sera renvoyé à la page d'acceuil etc.
+ un fois ici, le point d'accés
+
+

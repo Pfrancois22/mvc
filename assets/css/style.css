@@ -1,0 +1,30 @@
+
+body {
+    background-color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    background-color: darkcyan;
+    border: darkorange 1px solid;
+    max-width:  80%;
+    margin: 1% auto;
+    padding: 1%;
+}
+.divImg {
+    background-color: burlywood;
+    width: 150px;
+    padding: 0 30px;
+    margin: 10px 0;
+}
+
+img {
+    background-color: coral;
+    width: 100%;
+    object-fit: cover;
+
+}
